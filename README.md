@@ -1,107 +1,110 @@
-👋 Hi, I'm Alireza Aghaee
+<h1 align="center">Hi 👋, I'm Alireza Aghaee</h1>
 
-🚀 Senior Frontend Engineer | React · Next.js · System Design
-📍 Frankfurt, Germany (Open to relocation)
-📧 alirezaaghaee.dev@gmail.com
+<h3 align="center">
+Senior Frontend Engineer • React • Next.js • System Design
+</h3>
 
-🧠 About Me
+<p align="center">
+📍 Frankfurt, Germany (Open to relocation) • ✉️ alirezaaghaee.dev@gmail.com
+</p>
 
-Senior Frontend Engineer with 5+ years of experience building and scaling high-performance, cross-platform applications across web, PWA, desktop, and streaming platforms.
+---
+
+## 🧠 About Me
+
+I’m a **Senior Frontend Engineer (5+ years)** focused on building **high-performance, scalable, and maintainable frontend systems**.
 
 I specialize in:
+- ⚡ High-performance web applications (Core Web Vitals optimization)
+- 🧱 Large-scale frontend architecture
+- 🔄 Offline-first & PWA systems
+- 🧩 Design systems & reusable component architecture
+- 🌐 Cross-platform apps (Web + Electron)
 
-Frontend architecture at scale
-Performance optimization (Core Web Vitals)
-Offline-first systems & PWAs
-Large-scale state management
-Cross-platform applications (Web + Electron)
+I enjoy solving problems where **performance, scale, and architecture meet user experience**.
 
-I enjoy designing systems that are fast, modular, and maintainable at scale.
+---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-Core
+### 🧩 Core
+`JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js`
 
-JavaScript (ES6+), TypeScript, React, Next.js
+### 🏗 Architecture
+`System Design (Frontend)` • `Nx Monorepo` • `Micro-frontends`  
+`SSR / SSG` • `Design Systems`
 
-Architecture
+### 🔄 State & Data
+`Redux Toolkit` • `React Query` • `Caching Strategies` • `API Integration`
 
-Frontend System Design
-Nx Monorepo
-Micro-frontends
-SSR / SSG
-Design Systems
+### ⚡ Performance
+`Core Web Vitals (LCP, CLS)` • `Code Splitting` • `Lazy Loading`  
+`Rendering Optimization`
 
-State & Data
+### 📱 Offline & PWA
+`Service Workers` • `IndexedDB` • `Offline-first Architecture`
 
-Redux Toolkit
-React Query
-API Design & Caching strategies
+### 🛠 Tooling
+`TypeScript (strict)` • `Zod` • `Storybook`  
+`ESLint` • `Prettier` • `Git`
 
-Performance
+### 🖥 Cross-platform
+`Electron`
 
-Core Web Vitals (LCP, CLS optimization)
-Code Splitting, Lazy Loading
-Rendering optimization
+---
 
-Offline / PWA
+## 💼 Experience
 
-Service Workers
-IndexedDB
-Offline-first architecture
+### 🚀 Senior Frontend Engineer — Spotyman (Noandishan)
+**Nov 2025 – Present**
+- Led frontend architecture with Next.js for a 3-engineer team
+- Reduced feature delivery time by ~40% via reusable systems
+- Built subscriptions, profiles, and offline download features
 
-Tooling
+---
 
-TypeScript (strict mode)
-Zod
-Storybook
-ESLint / Prettier
-Git
+### 🏗 Senior Frontend Engineer — Foroushino Re-architecture
+**Mar 2025 – Nov 2025**
+- Rebuilt 90+ page retail PWA using Nx monorepo
+- Improved development velocity by ~35%
+- Built a 45+ component design system
+- Implemented offline-first architecture (Service Workers + IndexedDB)
 
-Cross-platform
+---
 
-Electron
-💼 Experience
-🧱 Senior Frontend Engineer — Noandishan (Spotyman)
+### 🎧 Senior Frontend Engineer — Melodify (Streaming Platform)
+**Mar 2023 – Mar 2025**
+- Served ~250K daily PWA users + ~50K desktop users
+- Improved LCP by 42% through performance engineering
+- Built social feed, playlists, and streaming workflows
+- Developed Electron-based desktop application
 
-Nov 2025 – Present
+---
 
-Led frontend architecture using Next.js for a 3-engineer team
-Reduced feature delivery time by ~40% via reusable component systems
-Built subscription, profile, and offline download systems
-🧩 Senior Frontend Engineer — Noandishan (Foroushino Re-architecture)
+### 💻 Frontend Developer — Noandishan
+**Mar 2022 – Mar 2023**
+- Built SSR applications using React, Vue, Nuxt.js
+- Improved performance via code splitting & lazy loading
+- Optimized large-scale state management systems
 
-Mar 2025 – Nov 2025
+---
 
-Rebuilt 90+ page retail PWA using Nx monorepo
-Improved development velocity by ~35%
-Built design system (45+ reusable components)
-Implemented offline-first architecture (Service Workers + IndexedDB)
-🎧 Senior Frontend Engineer — Melodify (Streaming Platform)
+## 🎓 Education
 
-Mar 2023 – Mar 2025
-
-Worked on platform serving ~250K daily users
-Improved LCP by 42% via performance optimization
-Built social feed, playlists, and streaming features
-Developed Electron desktop application
-🧑‍💻 Frontend Developer — Noandishan
-
-Mar 2022 – Mar 2023
-
-Built SSR apps using React, Vue, Nuxt.js
-Improved performance via lazy loading & code splitting
-Optimized state management patterns
-🎓 Education
-
-Bachelor’s Degree in Computer Engineering
+🎓 Bachelor’s Degree in Computer Engineering  
 Jahrom University (2017 – 2021)
 
-📊 Focus Areas
-Scalable frontend systems
-Performance engineering
-Architecture design
-Cross-platform product development
-📫 Contact
-Email: alirezaaghaee.dev@gmail.com
-Portfolio: alirezaaghaee.dev
+---
+
+## 📊 What I Focus On
+
+- Scalable frontend architecture
+- Performance engineering at scale
+- UX-driven system design
+- Cross-platform product development
+
+---
+
+<p align="center">
+⚡ "I build frontend systems that scale without breaking performance."
+</p>
