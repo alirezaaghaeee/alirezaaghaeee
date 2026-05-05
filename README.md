@@ -5,7 +5,7 @@ Senior Frontend Engineer • React • Next.js • System Design
 </h3>
 
 <p align="center">
-📍 Frankfurt, Germany (Open to relocation) • ✉️ alirezaaghaee.dev@gmail.com
+📍 Shiraz, Iran (Open to relocation) • ✉️ alirezaaghaee.dev@gmail.com
 </p>
 
 ---
